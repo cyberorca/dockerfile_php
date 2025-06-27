@@ -86,10 +86,6 @@ jobs:
 * Server harus sudah terinstall Docker & docker-compose.
 * Jangan lupa `docker-compose.yml` di server sudah mengarah ke image dari Docker Hub.
 
----
-
-Kalau kamu mau pakai GitHub Container Registry (GHCR) atau Google Artifact Registry, tinggal aku sesuaikan.
-Mau aku bantu setup `Dockerfile` dan `docker-compose.yml` juga?
 
 
 
